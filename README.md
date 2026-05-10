@@ -1,3 +1,6 @@
+> [🚀 실시간 인터랙티브 온보딩 가이드 바로가기](https://ljhljh0703-cmd.github.io/sub-brain-engine/)
+
+
 # LLM Wiki Starter: The Dual-Engine Intelligence Framework
 
 > "영감을 자산으로, 파편을 지능으로. 나만의 커스텀 LLM Wiki를 구축하는 가장 완벽한 프로토콜."
