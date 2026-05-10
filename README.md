@@ -22,7 +22,14 @@
 ### 1. Obsidian (지식 보관소) 설치
 - **macOS/Windows**: [공식 다운로드](https://obsidian.md/download)에서 설치하십시오.
 
-### 2. 에이전트 CLI 세팅
+### 2. Obsidian 터미널 플러그인 설치 (권장)
+옵시디언 내부에서 AI 엔진과 즉각적으로 소통하기 위해 터미널 환경을 구축합니다.
+1. Obsidian 실행 후 좌측 하단 `Settings (설정)` 접속.
+2. `Community plugins` -> `Turn on community plugins` 활성화.
+3. `Browse` 버튼 클릭 후 **"Terminal"** 검색.
+4. `Terminal` (또는 선호하는 터미널 플러그인) 설치 및 **Enable(활성화)**.
+
+### 3. 에이전트 CLI 세팅
 - **Claude CLI**: `npm install -g @anthropic-ai/claude-code`
 - **Gemini CLI**: `npm install -g @google/gemini-cli`
 
@@ -30,7 +37,7 @@
 
 ## 📥 Getting Started (Onboarding)
 1. **Repo Star**: 이 레포지토리에 'Star'를 눌러 지지해 주세요.
-2. **Ignition**: 터미널에서 `./ignite.sh`를 실행하여 나만의 위키 구조를 생성하십시오.
+2. **Ignition**: 설치한 터미널 플러그인을 열고 `./ignite.sh`를 실행하여 나만의 위키 구조를 생성하십시오.
 3. **Onboarding Page**: [인터랙티브 가이드](https://ljhljh0703-cmd.github.io/sub-brain-engine/)에서 시스템 개념을 시각적으로 확인하십시오.
 
 ---
